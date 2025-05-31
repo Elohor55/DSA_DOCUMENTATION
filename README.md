@@ -5,3 +5,11 @@ i have learnt quite a number of things ranging from ms excel to sql now to my po
 
 ## project topic: E commerce sale analysis
 ### project overview 
+### data sources
+### tool used
+
+- excel for data analysis cleaning[download here ](http.)
+   -   for data cleaning 
+- sql sever for querying and analysis
+- power bi for creating a report
+- Ms power point for presentation 
