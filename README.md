@@ -12,4 +12,10 @@ i have learnt quite a number of things ranging from ms excel to sql now to my po
    -   for data cleaning 
 - sql sever for querying and analysis
 - power bi for creating a report
-- Ms power point for presentation 
+- Ms power point for presentation
+
+  ### data analysis
+  ``` sql
+  select A,B,C
+  Where  A> 15
+  ```  
